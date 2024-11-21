@@ -1,0 +1,30 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color:black;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  img{
+    width: 100px;
+    padding-bottom:10px ;
+  }
+  .nav-container {
+    display: flex;
+  }
+  
+  .nav-container li {
+    margin: 0 10px;
+    list-style: none;
+  }
+  
+  .nav-container li a {
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+  }
+  
